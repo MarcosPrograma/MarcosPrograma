@@ -12,7 +12,7 @@
 
 ---
 
-<h3><b>contáctame</b></h3>
+<h3><b>Contáctame</b></h3>
 
 - ✉️ ¡Escríbeme! <a href="mailto:marcoseja01@gmail.com">MarcosEJA01@gmail.com</a>
 
