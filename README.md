@@ -5,10 +5,9 @@
 - 💻 <b>Licenciado en Diseño Multimedial</b> graduado de la Universidad Nacional de La Plata  
 - 👨🏽‍🏫 <b>Profesor en Diseño Multimedial</b> con orientación en educación artística en nivel secundario y superior  
 - 🎓 <b>Estudiante de Analista Programador Universitario</b> en la Universidad Nacional de La Plata  
-- 🤖 Ideando, diseñando y desarrollando <b>experiencias interactivas</b>  
+- 🤖 Ideando, diseñando y desarrollando <b>experiencias interactivas</b> vinculadas al arte, el diseño y la tecnología  
 - 🏛️ Creando <b>herramientas digitales de mediación cultural</b> en el Área de Museo, Exposiciones y Conservación del Patrimonio de la Facultad de Artes (UNLP)  
 - ✒️ Especializado en <b>Diseño UX/UI, Desarrollo Front-End y Diseño Web</b>  
-- 💭 Experimentando con <b>producciones interactivas</b> vinculadas al arte, el diseño y la tecnología  
 
 ---
 
