@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge"/>
 </p>
 
 <h3><b>Diseño</b></h3>
@@ -37,4 +38,4 @@
 
 ---
 
-<h3><b>¡Gracias por visitar mi perfil! 🦦</b></h3>
+<h3 align="center"><b>¡Gracias por visitar mi perfil! 🦦</b></h3>
