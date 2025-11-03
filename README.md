@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Marcos! 👋<img src="https://media.tenor.com/zkM2DkoHbQkAAAAi/capibara.gif" width="50px"/></h1>
+<h1 align="center">¡Hola, soy Marcos!<img src="https://media.tenor.com/zkM2DkoHbQkAAAAi/capibara.gif" width="40px"/></h1>
 
 <h3><b>Sobre mí</b></h3>
 
@@ -32,6 +32,7 @@
 </p>
 
 ---
-
-<h3 align="center"><b>¡Gracias por visitar mi perfil!</b></h3>
-<img align="center" src="https://media1.tenor.com/m/8ReB-BLbaYYAAAAC/cappy-cappy-nft.gif" width="200px"/>
+<div align-items: center>
+  <h3><b>¡Gracias por visitar mi perfil!</b></h3>
+  <img src="https://media1.tenor.com/m/8ReB-BLbaYYAAAAC/cappy-cappy-nft.gif" width="200px"/>
+</div>
