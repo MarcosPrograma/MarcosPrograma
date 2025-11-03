@@ -11,13 +11,13 @@
 
 ---
 
-<h3><b>Contáctame</b></h3>
+<h3><b>¿Dónde contactarme?</b></h3>
 
-- ✉️ ¡Escríbeme! <a href="mailto:marcoseja01@gmail.com">MarcosEJA01@gmail.com</a>
+- ✉️ <a href="mailto:marcoseja01@gmail.com">MarcosEJA01@gmail.com</a>
 
 ---
 
-<h3><b>Lenguajes</b></h3>
+<h3><b>Tecnologías que uso</b></h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge"/>
-</p>
-
-<h3><b>Diseño</b></h3>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge"/>
 </p>
