@@ -1,4 +1,5 @@
-<h1 align="center">¡Hola, soy Marcos! 👋</h1><img src="https://tenor.com/es-AR/view/capibara-gif-25022202" width="40px"/>
+<h1 align="center">¡Hola, soy Marcos! 👋</h1>
+<img src="https://media.tenor.com/zkM2DkoHbQkAAAAi/capibara.gif" width="40px"/>
 
 <h3><b>Sobre mí</b></h3>
 
@@ -34,3 +35,4 @@
 ---
 
 <h3 align="center"><b>¡Gracias por visitar mi perfil!</b></h3>
+<img src="https://media1.tenor.com/m/R15pWTCgbw4AAAAd/capybara-pixel-art.gif" width="200px"/>
