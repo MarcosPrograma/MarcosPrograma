@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Marcos! 👋</h1>
-<img align="center" src="https://tenor.com/es-AR/view/capibara-gif-25022202"/>
+<img src="https://tenor.com/es-AR/view/capibara-gif-25022202" width="200px"/>
 
 <h3><b>Sobre mí</b></h3>
 
