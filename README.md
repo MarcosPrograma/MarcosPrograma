@@ -34,5 +34,5 @@
 ---
 <div align="center">
   <h3><b>¡Gracias por visitar mi perfil!</b></h3>
-  <img src="https://media1.tenor.com/m/8ReB-BLbaYYAAAAC/cappy-cappy-nft.gif" width="300px"/>
+  <img src="https://media1.tenor.com/m/8ReB-BLbaYYAAAAC/cappy-cappy-nft.gif" width="300px" style="border-radius: 20px;/>
 </div>
