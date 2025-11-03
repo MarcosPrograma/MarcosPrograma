@@ -1,4 +1,5 @@
 <h1 align="center">¡Hola, soy Marcos! 👋</h1>
+<img align="center" src="https://tenor.com/view/capibara-gif-25022202"/>
 
 <h3><b>Sobre mí</b></h3>
 
@@ -34,4 +35,3 @@
 ---
 
 <h3 align="center"><b>¡Gracias por visitar mi perfil!</b></h3>
-<img src="[nombre_del_gif.gif](https://img.itch.zone/aW1hZ2UvMjk4NTc3MC8xNzg1ODg5OS5naWY=/original/nA3Up1.gif)" alt="Carpincho caminando feliz">
