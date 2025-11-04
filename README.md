@@ -30,6 +30,22 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge"/>
 </p>
+---
+
+<h3 align="center"><b>Estadísticas</b></h3>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosEJA01&locale=es&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=discord_old_blurple&hide_border=false" 
+    height="150" 
+    alt="Lenguajes más usados"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=MarcosEJA01&locale=es&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" 
+    height="150" 
+    alt="Racha de contribuciones"
+  />
+</div>
 
 ---
 <div align="center">
