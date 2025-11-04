@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Marcos!  <img src="https://media.tenor.com/zkM2DkoHbQkAAAAi/capibara.gif" width="40px"/></h1>
 
-<h3><b>Sobre mí</b></h3>
+<h3><b>Sobre mí 🧉</b></h3>
 
 - 💻 <b>Licenciado en Diseño Multimedial</b> graduado de la Universidad Nacional de La Plata  
 - 👨🏽‍🏫 <b>Profesor en Diseño Multimedial</b> con orientación en educación artística en nivel secundario y superior  
@@ -11,13 +11,13 @@
 
 ---
 
-<h3><b>¿Dónde contactarme?</b></h3>
+<h3><b>¿Dónde contactarme? 📥</b></h3>
 
 - ✉️ <a href="mailto:marcoseja01@gmail.com">MarcosEJA01@gmail.com</a>
 
 ---
 
-<h3><b>Tecnologías que uso</b></h3>
+<h3><b>Tecnologías que uso 💻</b></h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -33,18 +33,13 @@
 
 ---
 
-<h3 align="center"><b>Estadísticas</b></h3>
+<h3 align="center"><b>Estadísticas 📊</b></h3>
 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosPrograma&locale=es&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=discord_old_blurple&hide_border=false" 
     height="150" 
     alt="Lenguajes más usados"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=MarcosPrograma&locale=es&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="Racha de contribuciones"
   />
 </div>
 
